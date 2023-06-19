@@ -1,0 +1,11 @@
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\bin\Debug\MemoNotes.exe.config
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\bin\Debug\MemoNotes.exe
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\bin\Debug\MemoNotes.pdb
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.csproj.AssemblyReference.cache
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.Form1.resources
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.Properties.Resources.resources
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.csproj.GenerateResource.cache
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.csproj.CoreCompileInputs.cache
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.exe
+C:\Users\chafe\OneDrive\Documents\Développement\MemoNotes\MemoNotes\MemoNotes\obj\Debug\MemoNotes.pdb
