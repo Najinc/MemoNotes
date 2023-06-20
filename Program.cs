@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace MemoNotes
 {
-    internal static class Program
+    static class Program
     {
         /// <summary>
         /// Point d'entrée principal de l'application.
